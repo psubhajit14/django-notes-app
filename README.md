@@ -1,5 +1,5 @@
 # Simple Notes App
-This is a simple notes app built with React and Django.
+This is a simple notes app built with React and Django. Trigger jenkin
 
 ## Requirements
 1. Python 3.9
